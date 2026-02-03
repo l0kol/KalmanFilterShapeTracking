@@ -8,6 +8,7 @@ The system consists of two primary components:
 * **Shape Detection**: Identifies shapes in each frame based on contours of threshold frame. Thresholding is done on a grayscale image of the scene and on a HSV image of the scene.
 * **Shape Tracking**: Matches detected shapes across frames using position and color similarity, and predicts positions for missing shapes using opencv's implementation of Kalman filter.
 
+![outptu gif](media/tracked-shapes_full.gif "Shapes")
 
 ### Measured performance:
 * Average time per frame: 16 milliseconds
