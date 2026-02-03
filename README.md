@@ -17,6 +17,8 @@ Performance was measured on the following system:
 * Integrated GPU: AMD Radeon Graphics
 * RAM: 16 GB
 
+[I did this a while back when interviewing for a company]
+
 ## Usage
 
 Example usage of the shape tracking system:
